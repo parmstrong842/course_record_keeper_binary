@@ -1,0 +1,157 @@
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  1023
+Course name:  Cultural Implications of the Information Society
+Schedule days:  MWF
+Credit hours:  3
+Enrolled Students:  37
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  4393
+Course name:  User Interfaces
+Schedule days:  TR
+Credit hours:  3
+Enrolled Students:  52
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  4223
+Course name:  Bioinformatics and Big Data
+Schedule days:  MWF
+Credit hours:  3
+Enrolled Students:  49
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+ERROR: course not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a course number: 
+ERROR: course not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+ERROR: course not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  4963
+Course name:  Advanced Topics in Systems and Cloud
+Schedule days:  TR
+Credit hours:  3
+Enrolled Students:  38
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+ERROR: invalid option
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  1033
+Course name:  Microcomputer Applications
+Schedule days:  TR
+Credit hours:  3
+Enrolled Students:  40
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  4643
+Course name:  Cellular and Mobile Technologies
+Schedule days:  MWF
+Credit hours:  3
+Enrolled Students:  45
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+Course number:  3421
+Course name:  Systems Programming Recitation
+Schedule days:  TR
+Credit hours:  1
+Enrolled Students:  68
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a course number: 
+3421 was successfully deleted.
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
+Enter a CS course number:
+ERROR: course not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new course record
+R - read an existing course record
+U - update an existing course record
+D - delete an existing course record
